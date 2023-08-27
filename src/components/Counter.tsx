@@ -1,4 +1,4 @@
-'use client';
+'use client';//클라이언트라고 명시해줘야 useState 사용 가능
 
 import { useState } from 'react';
 
